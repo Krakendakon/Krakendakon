@@ -1,17 +1,22 @@
 ## Hi there 👋
+Welcome to my GitHub profile! I'm a cybersecurity expert and web developer based in Latvia.
+I specialize in protecting digital assets while also creating secure and efficient web applications.
+My passion for gaming and capturing flags (CTFs) keeps me sharp and always learning.
 
-<!--
-**Krakendakon/Krakendakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working On:
+Cybersecurity projects, vulnerability assessments, and penetration testing.
 
-Here are some ideas to get you started:
+Building secure web applications and improving security practices in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Participating in Capture The Flag (CTF) challenges to hone my problem-solving and cybersecurity skills.
+
+## 🌱 I’m Currently Learning:
+Advanced threat hunting and security automation.
+
+Exploring new frameworks and tools for secure web development.
+
+## ⚡ Fun Fact:
+When I'm not securing systems or coding, you'll find me enjoying a game or competing in CTFs. I love challenges, and there's always something new to learn!
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krakendakon)](https://github.com/anuraghazra/github-readme-stats)
